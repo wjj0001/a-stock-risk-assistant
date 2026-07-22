@@ -1,0 +1,9 @@
+{
+  "updated_at": "尚未自动更新，请先运行 GitHub Actions",
+  "stocks": [
+    {"code":"603019","name":"中科曙光","type":"持仓","date":null,"close":null,"day_chg_pct":null,"cost":99.817,"quantity":100,"market_value":null,"pnl":null,"pnl_pct":null,"ma5":null,"ma20":null,"ma60":null,"rsi14":null,"vol_ratio":null,"risk_level":"正常","risk_score":0,"message":"等待云端自动更新行情"},
+    {"code":"001270","name":"铖昌科技","type":"持仓","date":null,"close":null,"day_chg_pct":null,"cost":163.23,"quantity":300,"market_value":null,"pnl":null,"pnl_pct":null,"ma5":null,"ma20":null,"ma60":null,"rsi14":null,"vol_ratio":null,"risk_level":"正常","risk_score":0,"message":"等待云端自动更新行情"},
+    {"code":"600584","name":"长电科技","type":"持仓","date":null,"close":null,"day_chg_pct":null,"cost":96.278,"quantity":100,"market_value":null,"pnl":null,"pnl_pct":null,"ma5":null,"ma20":null,"ma60":null,"rsi14":null,"vol_ratio":null,"risk_level":"正常","risk_score":0,"message":"等待云端自动更新行情"}
+  ],
+  "errors": []
+}
