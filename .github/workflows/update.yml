@@ -1,0 +1,9 @@
+     - name: Update A-share data
+        env:
+          PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
+        run: python scripts/update_data.py
+      - name: Commit updated data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "update a-share data"
+          file_pattern: data/latest.json data/report.txt
